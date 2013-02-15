@@ -9,7 +9,7 @@ public class Cliente {
 		this.nombre = nombre;
 		this.saldo = saldo;
 	}
-	//Más métodos
+	//Mas metodos
 	public void depositar(int cant){
 		saldo=saldo+cant;
 	}
@@ -17,6 +17,8 @@ public class Cliente {
 		saldo=saldo-cant;
 	}
 
+	//MODIFICACIÓN DE LAS 11:00
+	
 
 	public static void main(String[] args) {
 
