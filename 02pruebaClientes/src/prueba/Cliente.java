@@ -17,7 +17,8 @@ public class Cliente {
 		saldo=saldo-cant;
 	}
 
-	//MODIFICACIÓN DE LAS 11:00
+	//MODIFICACIï¿½N DE LAS 11:00
+	//MODIFICACION DESDE EL SERVIDOR 12:00
 	
 
 	public static void main(String[] args) {
